@@ -1,6 +1,6 @@
 # Rocketflix
 
-Neste desafio foi utilizado a API do themoviedb.org para exibir um filme aleatório sempre o usuário clicar em Encontrar Filme.
+Neste desafio proposto pela Rocketseat foi utilizado a API do themoviedb.org para exibir um filme aleatório sempre o usuário clicar em Encontrar Filme.
 
 ## 💻 Layout
 ![Rocketflix](https://user-images.githubusercontent.com/111311581/217099870-8857334d-a899-427b-97bc-b96469a3d256.png)
@@ -25,5 +25,9 @@ cd rocketflix
 # Abra a aplicação no navegador
 
 ```
+
+## 📺 Demonstração
+[Link do projeto](https://giovanatiburtino.github.io/rocketflix/)
+
 # 👩‍💻 Autores
 [Linkedin](linkedin.com/in/giovana-ferreira-tiburtino-475486216/)
