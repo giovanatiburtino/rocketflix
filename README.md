@@ -5,12 +5,8 @@ Neste desafio proposto pela Rocketseat foi utilizado a API do themoviedb.org par
 ## 💻 Layout
 ![Rocketflix](https://user-images.githubusercontent.com/111311581/217099870-8857334d-a899-427b-97bc-b96469a3d256.png)
 
-
-## 🚀 Techs
-
-- HTML
-- CSS
-- JavaScript
+## 📺 Demonstração
+[Link do projeto](https://giovanatiburtino.github.io/rocketflix/)
 
 ## 💿 Como rodar este projeto?
 Para instalar o projeto, siga estas etapas:
@@ -26,8 +22,11 @@ cd rocketflix
 
 ```
 
-## 📺 Demonstração
-[Link do projeto](https://giovanatiburtino.github.io/rocketflix/)
+## 🚀 Techs
+
+- HTML
+- CSS
+- JavaScript
 
 # 👩‍💻 Autores
 [Linkedin](linkedin.com/in/giovana-ferreira-tiburtino-475486216/)
